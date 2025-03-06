@@ -1,0 +1,13 @@
+# Ignore Python virtual environment directories
+env/
+venv/
+.venv/
+
+# Ignore data and models directories
+data/
+models/
+
+# Optional: Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
